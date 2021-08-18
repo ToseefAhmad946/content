@@ -23,7 +23,7 @@ object.
 ## Syntax
 
 ```js
-Object.assign(target, ...sources)
+Object.assign(sources, ...destination)
 ```
 
 ### Parameters
